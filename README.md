@@ -75,3 +75,4 @@ o array deve ficar assim:
 - Node.js
 - Express
 - uuid (para geração de IDs únicos)
+- Insomnia
